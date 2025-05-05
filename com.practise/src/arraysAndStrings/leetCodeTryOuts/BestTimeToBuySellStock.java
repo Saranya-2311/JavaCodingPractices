@@ -1,4 +1,4 @@
-package arrays.leetCodeTryOuts;
+package arraysAndStrings.leetCodeTryOuts;
 
 public class BestTimeToBuySellStock {
     public static void main(String args[]){

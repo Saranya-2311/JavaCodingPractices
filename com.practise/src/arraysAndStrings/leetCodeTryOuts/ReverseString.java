@@ -1,4 +1,4 @@
-package arrays.leetCodeTryOuts;
+package arraysAndStrings.leetCodeTryOuts;
 //Two Pointer
 public class ReverseString {
     public static void main(String[] args) {

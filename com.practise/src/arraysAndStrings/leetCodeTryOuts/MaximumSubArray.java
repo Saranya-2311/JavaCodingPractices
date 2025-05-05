@@ -1,4 +1,4 @@
-package arrays.leetCodeTryOuts;
+package arraysAndStrings.leetCodeTryOuts;
 
 import static java.lang.Math.max;
 
