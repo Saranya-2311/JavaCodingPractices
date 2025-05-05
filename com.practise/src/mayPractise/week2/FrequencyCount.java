@@ -1,4 +1,4 @@
-package hashing;
+package mayPractise.week2;
 
 import java.util.HashMap;
 import java.util.Map;

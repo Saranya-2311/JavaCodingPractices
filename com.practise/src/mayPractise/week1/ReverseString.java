@@ -1,4 +1,4 @@
-package arraysAndStrings.leetCodeTryOuts;
+package mayPractise.week1;
 //Two Pointer
 public class ReverseString {
     public static void main(String[] args) {

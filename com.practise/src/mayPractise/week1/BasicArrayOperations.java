@@ -1,4 +1,4 @@
-package arraysAndStrings;
+package mayPractise.week1;
 
 public class BasicArrayOperations {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package arraysAndStrings.leetCodeTryOuts;
+package mayPractise.week1;
 
 import static java.lang.Math.max;
 
